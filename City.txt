@@ -3,3 +3,4 @@ satara
 kolhapur 
 pune
 mumbai
+bangalore
